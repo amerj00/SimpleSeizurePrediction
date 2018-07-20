@@ -226,5 +226,7 @@ while (var == 0):
         """
     
 """
-maybe test only for seizure point when there's an actual seizure
+Try:
+Raise possible seizure point value threshold
+Test all points in each file
 """
